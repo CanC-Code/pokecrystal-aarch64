@@ -1,0 +1,32 @@
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Native
+native/build/
+.cxx/
+
+# Gradle
+.gradle/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# ROMs and save files (never commit)
+*.gbc
+*.gb
+*.sav
+*.sym
+*.map
